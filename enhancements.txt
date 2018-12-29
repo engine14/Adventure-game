@@ -1,0 +1,26 @@
+Enhancements:
+
+1. Finding the correct coloured key in order to unlock
+   the doors of UofT. There are three choices of coloured
+   keys: green, orange, and white. This was implemented
+   by creating a new class called 'Keys' and defining two
+   methods, key_intro, which prints out the introduction
+   to the scenario, as well as the find_key which is a 
+   contains a while loop to ensure the user enters the 
+   correct coloured key.
+
+2. The user can save their current status in game as a 
+   backup python file. This feature was implemented so
+   that the user can refer back to the moves they have 
+   completed, and is able to take multiple breaks while 
+   playing the game.
+
+3. Upbeat music is added. This was implemented by importing
+   a class called winsound, which allowed the program to play
+   a wav file. This was done to improve the user's mood of the 
+   current situation.
+
+4. A hand draw map of the UofT campus was added. This was 
+   implemented by added a class called import os, which 
+   opens the jpg file of the map. This was done to make the
+   navigation easier. 

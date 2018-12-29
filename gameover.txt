@@ -1,0 +1,25 @@
+insert orange key
+go south
+go east
+go east
+go east
+go west
+pick up
+inventory
+go south
+go south
+go south
+go north
+go south
+go south
+go south
+pick up
+inventory
+go east
+go east
+go east
+go east
+go east
+go north
+go east
+go east

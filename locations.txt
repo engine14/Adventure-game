@@ -1,0 +1,31 @@
+
+1*You are at the front of the UofT campus. You are on outer circle road.
+2*You are on outer circle road. To your EAST is the CCT building, you observe that not a soul entering the building because all the exam are being held in IB.
+3*You are on outer circle road. 
+4*You are inside the communication, culture, and technology building (CCT). There you see a study space to your left, which you usally sit at, and there you see your lucky pen sitting there waiting for you. Go and quickly type "pick up" to pick up your lucky pen to add to your inventory.
+5*You are inside the communication, culture, and technology building (CCT).
+6*You are inside the communication, culture, and technology building (CCT).
+7*You are inside the communication, culture, and technology building (CCT).
+8*You are inside the communication, culture, and technology building (CCT).
+9*You are inside the communication, culture, and technology building (CCT).
+10*You are walking along the deep dark forest of UofT.
+11*You see a deer walking along along the deep dark forest of UofT. It may mean good luck.
+12*You are walking along the deep dark forest of UofT.
+13*You are walking along the deep dark forest of UofT.
+14*You on the sidewalk. To your SOUTH is the Kaneff center.
+15*You are inside the Kaneff centre (KN). You ask the secretary at the office of registrar if she has seen your T-card. Luckily, she responses "Yes!" Pick up your t-card from the secretary and view your inventory.
+16*You are inside the Kaneff centre (KN).
+17*You are inside the Kaneff centre (KN).
+18*You are inside the Kaneff centre (KN).
+19*You are on the sidewalk. 
+20*You are on the sidewalk. To your NORTH is the Instructional centre (IB).
+21*You are inside the Instructional centre (IB). You thought you left your cheat sheet on the third floor of IB, where your lecture is usually held. But unfortunately you are mistaken.
+22*You are inside the Instructional centre (IB).
+23*You are inside the Instructional centre (IB).
+24*You are inside the Instructional centre (IB). If you go NORTH you will be outside the exam room.
+25*You are inside the Instructional centre (IB).
+26*You are inside the Instructional centre (IB).
+27*You are outside the exam room. You are almost there!
+28*You are outside the exam room. Keep on going!
+29*Drop off all the items in the next room to collect all your points!
+30*You are inside the exam room. As you are frantically looking for your cheat sheet, you suddenly remember you left it on the exam room table the night before. You quickly run and it is still safe sitting there. Pick up your cheat sheet. Once you have all three of your items are collected they will be automatically dropped off at this location. 
